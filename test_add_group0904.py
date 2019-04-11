@@ -43,6 +43,9 @@ class UntitledTestCase(unittest.TestCase):
         driver.find_element_by_id("content").click()
         driver.find_element_by_name("submit").click()
         driver.find_element_by_link_text("group page").click()
+        self.logout(driver)
+
+    def logout(self, driver):
         driver.find_element_by_link_text("Logout").click()
 
     def is_element_present(self, how, what):
