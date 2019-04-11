@@ -1,7 +1,7 @@
 from selenium.webdriver.firefox.webdriver import WebDriver
 
-class Application:
 
+class Application:
     def __init__(self):
         self.driver = WebDriver()
         self.driver.implicitly_wait(30)
@@ -58,4 +58,3 @@ class Application:
 
     def destroy(self):
         self.driver.quit()
-
