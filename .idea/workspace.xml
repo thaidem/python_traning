@@ -85,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -104,6 +104,21 @@
             <path>
               <item name="python_traning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_traning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_traning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_traning" type="462c0819:PsiDirectoryNode" />
+              <item name="fixture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_traning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_traning" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_traning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_traning" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,6 +178,21 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in C:/Develop/python_traning/test_chrom.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_traning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_chrom.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in test_add_group.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_traning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,22 +219,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_app_g1004.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_chrom.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_traning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_chrom.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_app_g1004.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -212,7 +227,7 @@
       <list>
         <item itemvalue="Python tests.pytest in test_add_group.py" />
         <item itemvalue="Python.eye_test" />
-        <item itemvalue="Python tests.pytest in test_chrom.py" />
+        <item itemvalue="Python tests.pytest in C:/Develop/python_traning/test_chrom.py" />
       </list>
     </recent_temporary>
   </component>
@@ -230,9 +245,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.11 at 12h 20m 56s.xml">
-      <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_app_g1004_py - 2019.04.11 at 12h 21m 42s.xml">
       <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
     </history-entry>
@@ -260,17 +272,19 @@
     <history-entry file="pytest_in_test_app_g1004_py - 2019.04.11 at 17h 25m 13s.xml">
       <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.11 at 17h 33m 45s.xml">
+      <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="1" />
-    <editor active="true" />
+    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
