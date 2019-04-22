@@ -7,4 +7,4 @@ def app(request):
     fixture = Application()
     request.addfinalizer(fixture.destroy)
     return fixture
-# @pytest.fixture(scope="session")
+# @pytest.fixture(scope="session", autouse=True)
