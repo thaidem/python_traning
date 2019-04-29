@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test_app_g1004.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="185">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -31,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test_modify_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -43,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fixture/group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
+            <state relative-caret-position="1309">
               <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
             </state>
           </provider>
@@ -70,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            <state relative-caret-position="68">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -108,14 +108,14 @@
         <option value="$PROJECT_DIR$/fixture/application.py" />
         <option value="$PROJECT_DIR$/fixture/group.py" />
         <option value="$PROJECT_DIR$/ploschadki.html" />
-        <option value="$PROJECT_DIR$/test/test_app_g1004.py" />
-        <option value="$PROJECT_DIR$/test/test_modify_group.py" />
         <option value="$PROJECT_DIR$/test/test_del_group.py" />
         <option value="$PROJECT_DIR$/model/group.py" />
+        <option value="$PROJECT_DIR$/test/test_app_g1004.py" />
+        <option value="$PROJECT_DIR$/test/test_modify_group.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1300" />
@@ -129,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +155,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,43 +181,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_del_group.py">
-    <configuration name="eye_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_traning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eye_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test_add_group0904.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
-      <module name="python_traning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group0904.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_modify_group.py">
+    <configuration name="pytest for test_app_g1004.test_app_group" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_traning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,52 +193,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_app_g1004.test_app_group&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_add_group.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_app_g1004.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_traning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_add_group.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_app_g1004.py" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="python_traning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_app_g1004.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_del_group.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_traning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_del_group.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -294,11 +229,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_del_group.py" />
         <item itemvalue="Python tests.pytest in test_modify_group.py" />
-        <item itemvalue="Python tests.pytest in test" />
-        <item itemvalue="Python tests.pytest in test_add_group.py" />
-        <item itemvalue="Python.eye_test" />
+        <item itemvalue="Python tests.pytest in test_app_g1004.py" />
+        <item itemvalue="Python tests.pytest for test_app_g1004.test_app_group" />
       </list>
     </recent_temporary>
   </component>
@@ -316,35 +249,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.25 at 14h 19m 02s.xml">
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 00m 36s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 02m 23s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 04m 15s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 18m 33s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 19m 28s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 22m 15s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 26m 47s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_app_g1004_test_app_group - 2019.04.29 at 15h 34m 19s.xml">
+      <configuration name="pytest for test_app_g1004.test_app_group" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.29 at 15h 35m 04s.xml">
       <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.25 at 14h 20m 36s.xml">
-      <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.25 at 14h 22m 27s.xml">
-      <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.25 at 14h 22m 53s.xml">
-      <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_app_g1004_py - 2019.04.25 at 14h 42m 18s.xml">
-      <configuration name="pytest in test_app_g1004.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_del_group_py - 2019.04.25 at 14h 50m 16s.xml">
-      <configuration name="pytest in test_del_group.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_modify_group_py - 2019.04.25 at 14h 50m 43s.xml">
+    <history-entry file="pytest_in_test_modify_group_py - 2019.04.29 at 15h 45m 22s.xml">
       <configuration name="pytest in test_modify_group.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_del_group_py - 2019.04.26 at 10h 00m 25s.xml">
-      <configuration name="pytest in test_del_group.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_del_group_py - 2019.04.26 at 10h 01m 36s.xml">
-      <configuration name="pytest in test_del_group.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_del_group_py - 2019.04.26 at 10h 08m 05s.xml">
-      <configuration name="pytest in test_del_group.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -357,15 +290,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="784" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297546" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920508" weight="0.398773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,7 +311,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -444,10 +376,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_app_g1004.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1904452570/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="13651">
+          <caret line="803" column="8" selection-start-line="803" selection-start-column="8" selection-end-line="803" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -461,10 +393,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_modify_group.py">
+    <entry file="file://$PROJECT_DIR$/fixture/group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="1309">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -478,13 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -492,17 +417,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1904452570/builtins.py">
+    <entry file="file://$PROJECT_DIR$/model/group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13651">
-          <caret line="803" column="8" selection-start-line="803" selection-start-column="8" selection-end-line="803" selection-end-column="8" />
+        <state relative-caret-position="68">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/group.py">
+    <entry file="file://$PROJECT_DIR$/test/test_app_g1004.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        <state relative-caret-position="185">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_modify_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
